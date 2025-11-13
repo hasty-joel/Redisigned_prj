@@ -1,2 +1,0 @@
-# Redisigned_prj
-#PRJ
